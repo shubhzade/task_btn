@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 // import "./styles.css";
 import "./App.css";
-
+// dsscczdsa
 //☀︎ ☽
 export default function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -17,7 +17,7 @@ export default function App() {
             <span className="slider round"> </span>
           </label>
           <div>
-            <h1> Its {darkMode ? "Dark" : "Black"} Mode </h1>
+            <h1> Itsgggggg ii{darkMode ? "Dark" : "Black"} Mode </h1>
           </div>
         </div>
 
