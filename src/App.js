@@ -17,7 +17,7 @@ export default function App() {
             <span className="slider round"> </span>
           </label>
           <div>
-            <h1> Its {darkMode ? "Dark" : "Black"} Mode </h1>
+            <h1> Its {darkMode ? "Dark" : "Black"} Modeee </h1>
           </div>
         </div>
 
